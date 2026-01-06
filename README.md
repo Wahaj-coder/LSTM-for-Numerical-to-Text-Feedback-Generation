@@ -1,5 +1,11 @@
 # 🏏 LSTM for Numerical-to-Text Feedback Generation
 
+## Group Members:
+Muhammad Wahaj (22SP-059-CS)
+Ikram Ghouri(22SP-042-CS)
+Anas Zubair (22SP-055-CS)
+
+
 ## 1. Project Objective
 
 The objective of this project is to generate **human-like cricket shot feedback paragraphs**
